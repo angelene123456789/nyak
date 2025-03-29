@@ -1,1 +1,3 @@
-=inventory management system
+#INVENTORY MANAGEMENT SYSTEM
+by Arcega, Angelene M.
+
